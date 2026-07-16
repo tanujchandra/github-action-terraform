@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "rgs" {
-  name     = "rg_tanuj"
+  name     = "rg_tanuj007"
   location = "West Europe"
 }
 resource "azurerm_resource_group" "rgs" {
