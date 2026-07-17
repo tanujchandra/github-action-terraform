@@ -1,8 +1,8 @@
-resource "azurerm_resource_group" "rgs" {
-  name     = "rg_tanuj007"
+resource "azurerm_resource_group" "rg005" {
+  name     = "rg_tanuj005"
   location = "West Europe"
 }
-resource "azurerm_resource_group" "rg007" {
-  name     = "rg_tanuj2"
+resource "azurerm_resource_group" "rg006" {
+  name     = "rg_tanuj006"
   location = "West Europe"
 }
