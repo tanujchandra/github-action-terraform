@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "rgnew" {
-  name     = "rg_tanuj08"
+resource "azurerm_resource_group" "rg" {
+  name     = "rg_tanuj00111"
   location = "West Europe"
 }
